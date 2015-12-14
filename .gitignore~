@@ -1,0 +1,8 @@
+android_client/SocketChat/.gradle
+android_client/SocketChat/local.properties
+android_client/SocketChat/.idea/workspace.xml
+android_client/SocketChat/.idea/libraries
+android_client/SocketChat/.DS_Store
+android_client/SocketChat/build
+android_client/SocketChat/captures
+android_client/SocketChat/*.iml
